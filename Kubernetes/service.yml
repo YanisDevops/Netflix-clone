@@ -4,7 +4,7 @@ metadata:
   name: netflix-service
 spec:
   selector:
-    app: my-app
+    app: netflix-app
   ports:
     - protocol: TCP
       port: 80  # You can use port 80 here for HTTP traffic
